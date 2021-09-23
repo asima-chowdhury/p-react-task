@@ -30,3 +30,14 @@
     background-color: #000;
     color: #fff;
 }
+
+.slick-prev {
+    left: 30px!important;
+}
+.slick-next {
+    right: 60px!important;
+}
+.slick-prev, .slick-next {
+    /* color: black!important; */
+    background: black!important;
+}
