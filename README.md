@@ -12,4 +12,4 @@
 * Netlify(Hosting)
 
 ## 🔗 Live Site Link:
-https://elegant-galileo-9851f2.netlify.app/
+https://elegant-galileo-pioneer.netlify.app/
