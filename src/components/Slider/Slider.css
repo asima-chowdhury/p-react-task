@@ -1,0 +1,25 @@
+.slider{
+    max-width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.slider-content{
+    margin: 5%;
+    padding: 10%;
+    width: 70%;
+}
+.slider-content h1 {
+    font-size: 30px;
+}
+.slider-content p{
+    margin: 20px 0;    
+}
+.btn {
+    border: 1px solid #C10303;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: #000;
+}

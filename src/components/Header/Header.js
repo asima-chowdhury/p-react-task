@@ -15,22 +15,22 @@ const Header = () => {
                 </div>
                 <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                     <li className="nav-item">
-                        <a className="nav-links" onClick={closeMobileMenu} href="#">Home</a>
+                        <a className="nav-links" onClick={closeMobileMenu} href="#home">Home</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-links" onClick={closeMobileMenu} href="#">About</a>
+                        <a className="nav-links" onClick={closeMobileMenu} href="#home">About</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-links" onClick={closeMobileMenu} href="#">Service & Package</a>
+                        <a className="nav-links" onClick={closeMobileMenu} href="#home">Service & Package</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-links" onClick={closeMobileMenu} href="#">Gallery</a>
+                        <a className="nav-links" onClick={closeMobileMenu} href="#home">Gallery</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-links" onClick={closeMobileMenu} href="#">Faq</a>
+                        <a className="nav-links" onClick={closeMobileMenu} href="#home">Faq</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-links" onClick={closeMobileMenu} href="#">Contact</a>
+                        <a className="nav-links" onClick={closeMobileMenu} href="#home">Contact</a>
                     </li>
                 </ul>
             </div>
