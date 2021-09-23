@@ -14,7 +14,8 @@
     font-size: 30px;
 }
 .slider-content p{
-    margin: 20px 0;    
+    margin: 25px 0;
+    line-height: 24px;  
 }
 .btn {
     border: 1px solid #C10303;
@@ -22,4 +23,10 @@
     text-decoration: none;
     padding: 10px 20px;
     color: #000;
+    transition: all 0.3s ease-in-out;
+}
+.btn:hover{
+    border: 1px solid #000;
+    background-color: #000;
+    color: #fff;
 }
