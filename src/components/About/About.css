@@ -68,3 +68,16 @@
         margin: 10px 0;
     }
 }
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .container{
+        width: 450px;
+    }
+    .about{        
+        flex-flow: column-reverse;
+    }
+    .about-gallery, .about-content{
+        flex-basis: 100%;
+        margin: 10px 0;
+    }
+}

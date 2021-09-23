@@ -9,3 +9,7 @@
 * React.js
 * React slick carousel
 * Grid & Flexbox 
+* Netlify(Hosting)
+
+## 🔗 Live Site Link:
+https://elegant-galileo-9851f2.netlify.app/
